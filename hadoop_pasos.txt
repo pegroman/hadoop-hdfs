@@ -1,3 +1,6 @@
+sudo apt install git
+descargar https://drive.google.com/file/d/1t1QwIbw703KfwbIp2v6_h5e68fmNIsIP/view?usp=sharing
+
 1. sudo apt update
 2. sudo apt install openssh-server default-jdk default-jre
 4. sudo adduser hadoop
